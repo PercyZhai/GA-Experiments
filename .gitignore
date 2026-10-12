@@ -1,0 +1,19 @@
+# Generated or downloaded locally (not part of the repository)
+results/
+output/
+data/
+logs/
+
+# R artifacts
+*.RData
+*.Rdata
+*.rda
+*.rds
+*.Rout
+.Rhistory
+.Rapp.history
+.RDataTmp
+.Rproj.user/
+
+# OS files
+.DS_Store
